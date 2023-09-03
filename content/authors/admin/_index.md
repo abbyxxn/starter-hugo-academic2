@@ -1,6 +1,7 @@
 ---
 title: Xuan Xiong 熊璇
 role: Research Assistant at Shanghai Qi Zhi Institute
+avatar_filename: img_4188.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
