@@ -1,6 +1,6 @@
 ---
-title: Abby Xuan 熊璇
-role: Professor of Artificial Intelligence
+title: Xuan Xiong 熊璇
+role: Research Assistant at Shanghai Qi Zhi Institute
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -51,6 +51,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xuan﻿ Xiong is a research assistant at Shanghai Qi Zhi Institute. Her research interests include **3D perception** 
 {style="text-align: justify;"}
