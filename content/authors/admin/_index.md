@@ -31,7 +31,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
+  - name: Southern University of Science and Technology
     url: https://www.stanford.edu/
 education:
   courses:
