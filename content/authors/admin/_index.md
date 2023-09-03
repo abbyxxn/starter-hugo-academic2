@@ -34,15 +34,12 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "BSc in computer science "
+      institution: Southern University of Science and Technology
+      year: 2020
+    - course: High School
+      institution: Shenzhen Foreign Languages School
+      year: ""
 superuser: true
 status:
   icon: ☕️
