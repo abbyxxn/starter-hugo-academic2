@@ -35,7 +35,7 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: "BSc in computer science "
+    - course: "BSc in Computer Science "
       institution: Southern University of Science and Technology
       year: 2020
     - course: High School
