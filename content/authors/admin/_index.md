@@ -2,8 +2,6 @@
 title: Xuan Xiong 熊璇
 role: Research Assistant at Shanghai Qi Zhi Institute
 avatar_filename: img_4188.png
-#bio: My research interests include distributed robotics, mobile computing and
-#  programmable matter.
 interests:
   - 3D Computer Vision
   - Robotics Navigation
@@ -12,12 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#    label: Follow me on Twitter
-#    display:
-#      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=6gn7ZeYAAAAJ
@@ -27,9 +19,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/resume.pdf
 organizations:
   - name: Southern University of Science and Technology
     url: https://www.sustech.edu.cn/en/
