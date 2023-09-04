@@ -1,7 +1,7 @@
 ---
 title: Xuan Xiong 熊璇
 role: Research Assistant at Shanghai Qi Zhi Institute
-avatar_filename: img_4188.png
+avatar_filename: crop.jepg.jpeg
 interests:
   - 3D Computer Vision
   - Robotics Navigation
