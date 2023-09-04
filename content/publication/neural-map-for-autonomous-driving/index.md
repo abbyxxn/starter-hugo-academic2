@@ -3,7 +3,7 @@ title: Neural Map for Autonomous Driving
 subtitle: A neural representation of HD maps to improve local map inference
   performance for autonomous driving.
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Xuan Xiong
   - Yicheng Liu
@@ -13,6 +13,8 @@ authors:
   - Hang Zhao*
 draft: false
 featured: false
+tags:
+  - CVPR2023
 image:
   filename: 总概图.png
   focal_point: Smart
