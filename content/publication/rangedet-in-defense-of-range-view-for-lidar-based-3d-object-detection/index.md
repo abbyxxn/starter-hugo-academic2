@@ -7,8 +7,8 @@ subtitle: An anchor-free single-stage LiDAR 3D object detector, leverages a
 publication_types:
   - "1"
 authors:
-  - Lue Fan
-  - Xuan Xiong
+  - Xuan Xiong*
+  - Lue Fan*
   - Feng Wang
   - Naiyan Wang
   - Zhaoxiang Zhang
