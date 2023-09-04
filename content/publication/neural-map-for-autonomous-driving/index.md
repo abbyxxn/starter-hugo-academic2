@@ -13,7 +13,7 @@ authors:
   - Hang Zhao
 publication: https://arxiv.org/abs/2304.08481
 draft: false
-featured: true
+featured: false
 tags:
   - CVPR2023
 projects:
