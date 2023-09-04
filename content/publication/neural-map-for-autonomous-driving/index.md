@@ -1,5 +1,5 @@
 ---
-title: Neural Map for Autonomous Driving(CVPR 2023)
+title: Neural Map for Autonomous Driving (CVPR 2023)
 subtitle: A neural representation of HD maps to improve local map inference
   performance for autonomous driving.
 publication_types:
