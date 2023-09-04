@@ -27,12 +27,12 @@ education:
     - course: "BSc in Computer Science "
       institution: Southern University of Science and Technology
       year: 2020
-    - course: High School
-      institution: Shenzhen Foreign Languages School
-      year: ""
-    - course: Middle School
-      institution: Shenzhen Middle School
-      year: ""
+#    - course: High School
+#      institution: Shenzhen Foreign Languages School
+#      year: ""
+#    - course: Middle School
+#      institution: Shenzhen Middle School
+#      year: ""
 superuser: true
 status:
   icon: ☕️
