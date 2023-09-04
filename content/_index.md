@@ -242,6 +242,17 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      email: abby.xxn@outlook.com
+      address:
+        street: No. 701 Yunjin Road
+        city: Shanghai City
+        postcode: '200232'
+        region: China,
 #  - block: contact
 #    id: contact
 #    content:
