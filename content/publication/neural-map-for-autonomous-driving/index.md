@@ -10,7 +10,7 @@ authors:
   - Tianyuan Yuan
   - Yue Wang
   - Yilun Wang
-  - Hang Zhao*
+  - Hang Zhao
 draft: false
 featured: false
 tags:
