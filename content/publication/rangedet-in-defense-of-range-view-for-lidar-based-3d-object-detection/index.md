@@ -13,11 +13,14 @@ authors:
   - Naiyan Wang
   - Zhaoxiang Zhang
 author_notes: []
+publication: https://arxiv.org/abs/2103.10039
 publication_short: ""
 draft: false
 featured: false
 tags:
   - ICCV2021
+projects:
+  - https://github.com/tusen-ai/RangeDet
 image:
   filename: featured
   focal_point: Smart
