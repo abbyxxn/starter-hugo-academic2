@@ -1,5 +1,6 @@
 ---
 title: RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection
+  (ICCV 2021)
 subtitle: An anchor-free single-stage LiDAR 3D object detector, leverages a
   unique range view representation to outperform other range-view-based
   approaches and rival multi-view-based methods in the Waymo Open Dataset.
