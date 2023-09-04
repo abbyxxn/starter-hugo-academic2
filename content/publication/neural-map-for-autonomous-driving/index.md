@@ -11,10 +11,13 @@ authors:
   - Yue Wang
   - Yilun Wang
   - Hang Zhao
+publication: https://arxiv.org/abs/2304.08481
 draft: false
 featured: false
 tags:
   - CVPR2023
+projects:
+  - https://github.com/Tsinghua-MARS-Lab/neural_map_prior
 image:
   filename: 总概图.png
   focal_point: Smart
